@@ -5,7 +5,7 @@ class Employee {
     long phone;
 
 }
-public class Static_var {
+public class Emply_data {
     
     public static void main(String args[]){
         // String name, email;
